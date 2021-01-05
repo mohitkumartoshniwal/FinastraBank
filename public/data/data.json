@@ -1,0 +1,45 @@
+{
+    "SavingsAccount": [
+        {
+            "schemeName": "Super Savings",
+            "roi": "ROI 4.5%",
+            "transaciton": "Max Transaciton/ day 5000 GBP",
+            "image": "images/coins.jpg"
+        },
+        {
+            "schemeName": "Silver Savings",
+            "roi": "ROI 4.7%",
+            "transaciton": "Max Transaciton/ day 7000 GBP",
+            "image": "images/dollars.jpg"
+        },
+        {
+            "schemeName": "Gold Savings",
+            "roi": "ROI 4.9%",
+            "transaciton": "Max Transaciton/ day 9000 GBP",
+            "image": "images/coins.jpg"
+        }
+    ],
+    "FixedDeposits": [
+        {
+            "schemeName": "Silver Fixed Deposits",
+            "term": "Term: 3 Years",
+            "roi": "ROI 7.2%",
+            "amount": "Min-Max Amount: 5,000-50,000 GBP",
+            "image": "images/dollar2.jpg"
+        },
+        {
+            "schemeName": "Gold Fixed Deposits",
+            "term": "Term: 3 Years",
+            "roi": "ROI 7.2%",
+            "amount": "Min-Max Amount: 5,000-50,000 GBP",
+            "image": "images/coins.jpg"
+        },
+        {
+            "schemeName": "Platinum Fixed Deposits",
+            "term": "Term: 3 Years",
+            "roi": "ROI 7.2%",
+            "amount": "Min-Max Amount: 5,000-50,000 GBP",
+            "image": "images/dollars.jpg"
+        }
+    ]
+}
